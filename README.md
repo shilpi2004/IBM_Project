@@ -1,4 +1,4 @@
-# IBM_Project
+# IBM Cloud_Project
 ⚡ Power System Fault Detection using Machine Learning
 🚀 Project Overview
 This project aims to develop a machine learning model that can detect and classify different types of faults in a power distribution system. By analyzing electrical measurements such as voltage and current phasors, the system accurately identifies fault conditions like line-to-ground, line-to-line, and three-phase faults. The objective is to enable rapid, automated fault detection for improved grid stability and reliability.
